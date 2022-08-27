@@ -1,4 +1,4 @@
-Module 12 Challenge - Employee Tracker
+# Module 12 Challenge - Employee Tracker
 
 ## Description
 Created a functioning employee tracker app that allows users to seed information about their business including departments, employees, and roles, and then view that information utilizing MySQL and the terminal.
